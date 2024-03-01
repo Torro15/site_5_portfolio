@@ -767,10 +767,16 @@ li {
     }
     .services__flex-item {
         margin-bottom: 20px;
+        margin-right: 0;
     }
 
     .services__flex-item:last-child {
         margin-bottom: 0;
+    }
+
+    .services__img {
+        width: 85px;
+        height: 85px;
     }
 
     .about {
